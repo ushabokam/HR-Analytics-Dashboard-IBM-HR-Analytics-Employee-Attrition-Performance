@@ -25,7 +25,7 @@ The interactive Power BI dashboard provides insights into the key factors influe
 ![Demographics](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Demographics.png)
 
 #### **Job Satisfaction & Performance**
-![Job Satisfaction](JobSatisfaction.png)
+![Job Satisfaction](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/JobSatisfaction.png)
 
 ---
 
