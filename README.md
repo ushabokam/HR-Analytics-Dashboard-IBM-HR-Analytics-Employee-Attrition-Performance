@@ -10,10 +10,27 @@ The interactive Power BI dashboard provides insights into the key factors influe
 - Analyze job satisfaction, performance, and compensation trends  
 - Identify high-risk employee segments to improve retention strategies  
 
+### Key Insights
+#### **1. Demographics vs Attrition**
+- Employees **under 30** show the **highest attrition rate (~30%)**
+- **Single employees** have higher attrition (25.5%) compared to married or divorced employees  
+- **Human Resources and Technical Degree holders** show higher attrition rates among education fields  
+- **Male employees** represent around **63%** of total attrition  
+
+#### **2. Job Satisfaction & Performance**
+- Average job satisfaction is highest in the **Sales department (2.8/4)**  
+- Attrition is highest among employees earning **<3K per month**  
+- Employees working **overtime** show more than **3x higher attrition rates**  
+- Most attritions occur among those with **performance rating 3**  
+- Employees with **1–3 years since last promotion** show higher attrition rates  
+
+#### **3. Department & Role Analysis**
+- **Research & Development department** has the largest workforce (~65%)  
+- **Laboratory Technicians** and **Sales Executives** contribute most to attrition  
+- Highest attrition rate observed in **Sales Representatives (39.7%)**  
 
 ### Tools Used
 - **Power BI** – Data visualization and dashboard creation  
-- **Excel / CSV** – Data cleaning and preprocessing  
 - **Kaggle Dataset** – IBM HR Analytics Employee Attrition & Performance  
 
 
