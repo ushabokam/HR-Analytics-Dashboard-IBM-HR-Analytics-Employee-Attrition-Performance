@@ -11,18 +11,18 @@ The interactive Power BI dashboard provides insights into the key factors influe
 - Identify high-risk employee segments to improve retention strategies  
 
 
-### 🧰 Tools Used
+### Tools Used
 - **Power BI** – Data visualization and dashboard creation  
 - **Excel / CSV** – Data cleaning and preprocessing  
 - **Kaggle Dataset** – IBM HR Analytics Employee Attrition & Performance  
 
 
-### 📸 Dashboard Snapshots
+### Dashboard Snapshots
 #### **HR Analytics Overview**
-![Overview](Overview.png)
+![Overview](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Demographics.png)
 
 #### **Demographics vs Attrition**
-![Demographics](Demographics.png)
+![Demographics](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Demographics.png)
 
 #### **Job Satisfaction & Performance**
 ![Job Satisfaction](JobSatisfaction.png)
