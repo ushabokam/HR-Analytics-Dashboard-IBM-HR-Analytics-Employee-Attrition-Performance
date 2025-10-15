@@ -19,7 +19,7 @@ The interactive Power BI dashboard provides insights into the key factors influe
 
 ### Dashboard Snapshots
 #### **HR Analytics Overview**
-![Overview](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Demographics.png)
+![Overview](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Overview.png)
 
 #### **Demographics vs Attrition**
 ![Demographics](https://github.com/ushabokam/HR-Analytics-Dashboard-IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/Demographics.png)
